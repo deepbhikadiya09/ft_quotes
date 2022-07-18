@@ -1,0 +1,38 @@
+
+List<String> mainQuote=[
+  "Inspirational",
+  "Success",
+  "Truth",
+  "Best",
+  "Happiness",
+  "God",
+  "Awesome",
+  "Creative",
+  "Family",
+  "Forgiveness",
+  "Friends",
+  "Naughty",
+  "Relationship",
+  "Thank you",
+  "Weekend",
+  "Life",
+];
+List<String> mainQuoteImage=[
+  "lib/assets/asset/image/maininspiration.jpg",
+  "lib/assets/asset/image/mainsuccess.jpg",
+  "lib/assets/asset/image/maintruth.jpg",
+  "lib/assets/asset/image/mainbest.jpg",
+  "lib/assets/asset/image/mainhappiness.jpg",
+  "lib/assets/asset/image/maingod.jpg",
+  "lib/assets/asset/image/mainawsome.jpg",
+  "lib/assets/asset/image/maincreative.jpg",
+  "lib/assets/asset/image/mainfamily.jpg",
+  "lib/assets/asset/image/mainforgivness.jpg",
+  "lib/assets/asset/image/mainfriends.jpg",
+  "lib/assets/asset/image/mainnaughty.jpg",
+  "lib/assets/asset/image/mainrelationship.jpg",
+  "lib/assets/asset/image/mainthankyou.jpg",
+  "lib/assets/asset/image/mainweekend.jpg",
+  "lib/assets/asset/image/mainlife.jpg",
+
+];
